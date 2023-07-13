@@ -1,6 +1,8 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h3>Welcome to first Spring demo.</h3>
+	<h1>Hello World!</h1>
+	<p>Welcome to Spring MVC Tutorial</p>  
+	<a href="hello">Click here...</a>  
+	
 </body>
 </html>
