@@ -7,9 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- <a href="helloagain">view page</a>  
- -->
 	${message}
-
+	<br>
+	<br>
+	<jsp:include page="/index.jsp"></jsp:include>
 </body>
 </html>
